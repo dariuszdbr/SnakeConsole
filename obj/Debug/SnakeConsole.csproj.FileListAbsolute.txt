@@ -1,0 +1,11 @@
+c:\users\darek\documents\visual studio 2013\Projects\SnakeConsole\SnakeConsole\bin\Debug\SnakeConsole.exe.config
+c:\users\darek\documents\visual studio 2013\Projects\SnakeConsole\SnakeConsole\bin\Debug\SnakeConsole.exe
+c:\users\darek\documents\visual studio 2013\Projects\SnakeConsole\SnakeConsole\bin\Debug\SnakeConsole.pdb
+c:\users\darek\documents\visual studio 2013\Projects\SnakeConsole\SnakeConsole\obj\Debug\SnakeConsole.exe
+c:\users\darek\documents\visual studio 2013\Projects\SnakeConsole\SnakeConsole\obj\Debug\SnakeConsole.pdb
+C:\Users\Darek\Documents\GitHub\Clone\SnakeConsole\bin\Debug\SnakeConsole.exe.config
+C:\Users\Darek\Documents\GitHub\Clone\SnakeConsole\bin\Debug\SnakeConsole.exe
+C:\Users\Darek\Documents\GitHub\Clone\SnakeConsole\bin\Debug\SnakeConsole.pdb
+C:\Users\Darek\Documents\GitHub\Clone\SnakeConsole\obj\Debug\SnakeConsole.csprojResolveAssemblyReference.cache
+C:\Users\Darek\Documents\GitHub\Clone\SnakeConsole\obj\Debug\SnakeConsole.exe
+C:\Users\Darek\Documents\GitHub\Clone\SnakeConsole\obj\Debug\SnakeConsole.pdb

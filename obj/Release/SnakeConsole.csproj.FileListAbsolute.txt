@@ -1,0 +1,18 @@
+C:\Users\Darek\Documents\Visual Studio 2013\Projects\SnakeConsole\SnakeConsole\bin\Release\SnakeConsole.exe.config
+C:\Users\Darek\Documents\Visual Studio 2013\Projects\SnakeConsole\SnakeConsole\bin\Release\SnakeConsole.exe
+C:\Users\Darek\Documents\Visual Studio 2013\Projects\SnakeConsole\SnakeConsole\bin\Release\SnakeConsole.pdb
+C:\Users\Darek\Documents\Visual Studio 2013\Projects\SnakeConsole\SnakeConsole\obj\Release\SnakeConsole.exe
+C:\Users\Darek\Documents\Visual Studio 2013\Projects\SnakeConsole\SnakeConsole\obj\Release\SnakeConsole.pdb
+C:\Users\Darek\Documents\Visual Studio 2013\Projects\SnakeConsole\SnakeConsole\obj\Release\SnakeConsole.csprojResolveAssemblyReference.cache
+C:\Users\Darek\Desktop\SnakeConsole\SnakeConsole\bin\Release\SnakeConsole.exe.config
+C:\Users\Darek\Desktop\SnakeConsole\SnakeConsole\bin\Release\SnakeConsole.exe
+C:\Users\Darek\Desktop\SnakeConsole\SnakeConsole\bin\Release\SnakeConsole.pdb
+C:\Users\Darek\Desktop\SnakeConsole\SnakeConsole\obj\Release\SnakeConsole.exe
+C:\Users\Darek\Desktop\SnakeConsole\SnakeConsole\obj\Release\SnakeConsole.pdb
+C:\Users\Darek\Desktop\SnakeConsole\SnakeConsole\obj\Release\SnakeConsole.csprojResolveAssemblyReference.cache
+C:\Users\Darek\Documents\Visual Studio 2017\Projects\SnakeConsole\bin\Release\SnakeConsole.exe.config
+C:\Users\Darek\Documents\Visual Studio 2017\Projects\SnakeConsole\obj\Release\SnakeConsole.exe
+C:\Users\Darek\Documents\Visual Studio 2017\Projects\SnakeConsole\obj\Release\SnakeConsole.pdb
+C:\Users\Darek\Documents\Visual Studio 2017\Projects\SnakeConsole\bin\Release\SnakeConsole.exe
+C:\Users\Darek\Documents\Visual Studio 2017\Projects\SnakeConsole\bin\Release\SnakeConsole.pdb
+C:\Users\Darek\Documents\Visual Studio 2017\Projects\SnakeConsole\obj\Release\SnakeConsole.csprojResolveAssemblyReference.cache
